@@ -1,0 +1,21 @@
+{
+    "name": "jeterangeloaguilar/app-carrinho-compras",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Jeterangeloaguilar\\AppCarrinhoCompras\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jeter",
+            "email": "jeteraguilar@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\" : "src/"
+        }
+    }
+}
